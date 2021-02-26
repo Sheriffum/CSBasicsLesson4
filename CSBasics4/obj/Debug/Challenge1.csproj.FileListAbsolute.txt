@@ -1,0 +1,10 @@
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\bin\Debug\CSBasics4.exe.config
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\bin\Debug\CSBasics4.exe
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\bin\Debug\CSBasics4.pdb
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\bin\Debug\Core.dll
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\bin\Debug\Core.pdb
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\Challenge1.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\Challenge1.csproj.CopyComplete
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\CSBasics4.exe
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\CSBasics4.pdb

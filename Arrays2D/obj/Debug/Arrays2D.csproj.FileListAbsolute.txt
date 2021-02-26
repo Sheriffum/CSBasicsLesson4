@@ -1,0 +1,5 @@
+C:\Users\Andrey\source\repos\CSBasics4\Arrays2D\bin\Debug\Arrays2D.dll
+C:\Users\Andrey\source\repos\CSBasics4\Arrays2D\bin\Debug\Arrays2D.pdb
+C:\Users\Andrey\source\repos\CSBasics4\Arrays2D\obj\Debug\Arrays2D.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CSBasics4\Arrays2D\obj\Debug\Arrays2D.dll
+C:\Users\Andrey\source\repos\CSBasics4\Arrays2D\obj\Debug\Arrays2D.pdb

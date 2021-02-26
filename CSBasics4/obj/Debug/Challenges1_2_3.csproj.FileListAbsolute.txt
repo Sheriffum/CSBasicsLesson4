@@ -1,0 +1,2 @@
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\Challenges1_2_3.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\CSBasics4\CSBasics4\obj\Debug\Challenges1_2_3.csproj.CoreCompileInputs.cache
